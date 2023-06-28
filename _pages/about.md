@@ -7,7 +7,7 @@ subtitle: <a href='https://www.utoronto.ca/'>University of Toronto</a>. Address.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profolio.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Toronto, Ontario</p>
@@ -16,9 +16,10 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
