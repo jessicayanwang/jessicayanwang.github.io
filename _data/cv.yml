@@ -39,47 +39,47 @@
       year: May 2023 - Present
       description:
       - Leading the development of a 3D deep learning pipeline dedicated to the precise segmentation of
-      neuronal somas in whole-brain light sheet fluorescence microscopy rodent data
+        neuronal somas in whole-brain light sheet fluorescence microscopy rodent data
       - Enhanced existing models by incorporating neuron density, resulting in a balanced approach that
-      aligns more closely with the requirements of neuroscientists and clinicians. Achieved superior results
-      compared to baseline models
+        aligns more closely with the requirements of neuroscientists and clinicians. Achieved superior results
+        compared to baseline models
       - Created a novel UNet-based architecture with integration of small image patch dependencies into
-      the convolutional neural network, delivering optimal performance for processing large size microscopy
-      images
+        the convolutional neural network, delivering optimal performance for processing large size microscopy
+        images
     - title: Undergraduate Researcher
       institution: Princess Margaret Cancer Centre, University Health Network (UHN), University of Toronto, Canada
       year: Sept 2022 - Apr 2023
       description:
       - Successfully re-implemented a previously published few-shot learning method for predicting drug responses
       - Conducted thorough and comprehensive testing of the developed model across a wide range of datasets, 
-      including immortalized cell line data, in vitro patient-derived cell cultures, and clinical trial data, 
-      expanding the scope beyond the original publication
+        including immortalized cell line data, in vitro patient-derived cell cultures, and clinical trial data, 
+        expanding the scope beyond the original publication
       - Bridged the gap from cell-line data to real-world clinical data, showcasing the potential of few-shot
-      learning as a robust and promising tool in the medical field
+        learning as a robust and promising tool in the medical field
 
     - title: Research Intern
       institution: Data Sciences Institute (DSI), Toronto, Canada
       year: May 2022 - Apr 2023
       desciption:
       - Developed a statistical model that incorporated both data and associated uncertainties, a crucial 
-      consideration for the analysis of survey data concerning stars at significant distances
+        consideration for the analysis of survey data concerning stars at significant distances
       - This model achieved remarkable success in the classification of blue horizontal branch stars at vast
-      distances, reaching beyond half a million light-years away, utilizing photometric data from Dark Energy Survey
+        distances, reaching beyond half a million light-years away, utilizing photometric data from Dark Energy Survey
       - Constructed a 3-D model of the stellar halo in the Milky Way by using the predicted stars. The 
-      predicted stars were also provided as a valuable catalog for the astrostatistics and astronomy communities
-      for future research
+        predicted stars were also provided as a valuable catalog for the astrostatistics and astronomy communities
+        for future research
 
     - title: Undergraduate Researcher
       institution: STEM Fellowship, Toronto, Canada
       year: Dec 2021 - Dec 2022
       description:
       - Conducted research in 3D bioprinting, with emphasis on its role in advancing personalized medicine
-      and exploring prevalent techniques like extrusion printing and digital light processing (DLP)
+        and exploring prevalent techniques like extrusion printing and digital light processing (DLP)
       - Discussed the multifaceted applications of bioprinted constructs, including their utilization as 
-      personalized implants for regenerative medicine and as high-throughput drug development models for 
-      drug discovery
+        personalized implants for regenerative medicine and as high-throughput drug development models for 
+        drug discovery
       - Placed 1st in both Intraschool and National Indicium Research Conference Competition out of more
-      than 80 participating teams nation-wide
+        than 80 participating teams nation-wide
 
     - title: Undergraduate Researcher
       institution: Department of Statistical Sciences, University of Toronto, Canada
