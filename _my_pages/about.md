@@ -24,7 +24,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-Hi there! Welcome to my page!
+Hi, welcome to my page! I'm a 4th-year student at University of Toronto, pursuing a Computer Science specialist.
+
+My research interest is broadly in computational and statistical method for medicine and healthcare, especially in the field of precision medicine and neuroscience. 
+
+Links: [Email](gracefengqing.yu@mail.utoronto.ca) [Google Scholar](https://scholar.google.ca/citations?user=BczAniIAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/grace-fengqing-yu-404679219/)
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

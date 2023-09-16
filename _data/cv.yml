@@ -8,6 +8,11 @@
     - name: Languages
       value: English, Chinese
 
+- title: Research Interests
+  type: list
+  contents:
+    - AI in medicine, AI for healthcare, computational neuroscience, statistical analysis
+
 - title: Education
   type: time_table
   contents:
@@ -25,11 +30,6 @@
     #   description:
     #     - Description 1.
     #     - Description 2.
-
-- title: Research Interests
-  type: list
-  contents:
-    - AI in medicine, AI for healthcare, computational neuroscience, statistical analysis
 
 - title: Experience
   type: time_table
@@ -83,7 +83,7 @@
 
     - title: Undergraduate Researcher
       institution: Department of Statistical Sciences, University of Toronto, Canada
-      year: 1909 - 1911
+      year: Sept 2021 - Apr 2022
       description:
       - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
       - Achieved a 50% reduction in the number of labeled images required, resulting in a cost-effective solution for landmarking the images
@@ -102,7 +102,6 @@
   type: time_table
   contents:
     - year: 2023
-      items: 
         - title: T-CAIREM AI in Medicine Summer Research Studentship, University of Toronto
           description: awarded to fund a summer research internship for AI in healthcare
         - title: Hurvitz Brain Sciences Summer Student Award, Sunnybrook Research Institute (declined)
@@ -110,7 +109,6 @@
         - title: Ruth Reiffenstein Memorial Scholarship, University of Toronto
           description: awarded for academic standing
     - year: 2022
-      items: 
         - title: Summer Undergraduate Data Science (SUDS) Scholarship, Data Sciences Institute
           description: awarded to fund a summer research studentship with UofT faculty members
         - title: First Place in the National Indicium Research Conference 2022, STEM Fellowship
@@ -118,7 +116,6 @@
         - title: New college in-course scholarship (2021, 2022)
           description: awarded for academic standing
     - year: 2020
-      items: 
       - title: University of Toronto Scholars, University of Toronto
         description: awarded to UofT's outstanding students at admission
 
