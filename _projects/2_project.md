@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational Neuroscience
+title: Few-shot Learning for Drug Response Prediction
 description: Reproducibility and Reusability of Few-shot Learning
 for Transfer Drug Response Prediction, supervised by Prof. Benjamin Haibe-Kains.
 img: assets/img/drugs.png

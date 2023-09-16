@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Few-shot Learning for Drug Response Prediction
+title: Computational Neuroscience
 description: Developing a 3D deep learning pipeline for segmenting neuronal somas in whole-brain light sheet fluorescence microscopy rodent data. This project is funded by 2023 T-CAIREM AI in Medicine Summer Research Studentship Program, supervised by Prof. Maged Goubran.
 img: assets/img/raw.gif
 importance: 1
