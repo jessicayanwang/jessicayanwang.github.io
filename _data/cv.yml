@@ -103,23 +103,24 @@
   contents:
     - year: 2023
       items: 
-        - T-CAIREM AI in Medicine Summer Research Studentship, University of Toronto
-        description: awarded to fund a summer research internship for AI in healthcare
-        - Hurvitz Brain Sciences Summer Student Award, Sunnybrook Research Institute (declined)
-        description: awarded to fund a summer research internship in a hospital-based research program
-        - Ruth Reiffenstein Memorial Scholarship, University of Toronto
-        description: awarded for academic standing
+        - title: T-CAIREM AI in Medicine Summer Research Studentship, University of Toronto
+          description: awarded to fund a summer research internship for AI in healthcare
+        - title: Hurvitz Brain Sciences Summer Student Award, Sunnybrook Research Institute (declined)
+          description: awarded to fund a summer research internship in a hospital-based research program
+        - title: Ruth Reiffenstein Memorial Scholarship, University of Toronto
+          description: awarded for academic standing
     - year: 2022
       items: 
-        - Summer Undergraduate Data Science (SUDS) Scholarship, Data Sciences Institute
-        description: awarded to fund a summer research studentship with UofT faculty members
-        - First Place in the National Indicium Research Conference 2022, STEM Fellowship
-        description: awarded to the winning team
-        - New college in-course scholarship (2021, 2022)
-        description: awarded for academic standing
+        - title: Summer Undergraduate Data Science (SUDS) Scholarship, Data Sciences Institute
+          description: awarded to fund a summer research studentship with UofT faculty members
+        - title: First Place in the National Indicium Research Conference 2022, STEM Fellowship
+          description: awarded to the winning team
+        - title: New college in-course scholarship (2021, 2022)
+          description: awarded for academic standing
     - year: 2020
-      items: University of Toronto Scholars, University of Toronto
-      description: awarded to UofT’s outstanding students at admission
+      items: 
+      - title: University of Toronto Scholars, University of Toronto
+        description: awarded to UofT's outstanding students at admission
 
 # - title: Academic Interests
 #   type: nested_list
