@@ -6,7 +6,7 @@ description: Projects that I have worked on.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -41,10 +41,12 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    <div class="row">
+      {%- for project in sorted_projects -%}
+        <div class="col-md-12">
+          {% include projects_customized.html %}
+        </div>
+      {%- endfor %}
     </div>
   </div>
   {%- else -%}
