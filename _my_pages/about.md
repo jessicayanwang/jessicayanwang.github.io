@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.utoronto.ca/'>University of Toronto</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 # subtitle: <a href='https://www.utoronto.ca/'>University of Toronto</a>. Address. Contacts. Moto. Etc.
 
 profile:
