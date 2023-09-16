@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Developing a 3D deep learning pipeline for segmenting neuronal somas in whole-brain light sheet fluorescence microscopy rodent data. 
-description: This project is funded by 2023 T-CAIREM AI in Medicine Summer Research Studentship Program and supervised by Prof. Maged Goubran.
+description: Supervised by Prof. Maged Goubran, funded by 2023 T-CAIREM AI in Medicine Summer Research Studentship Program.
 img: assets/img/raw.gif
 importance: 1
 category: work

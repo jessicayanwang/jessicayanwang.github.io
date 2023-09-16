@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Mapping the Milky Way Halo with Blue Horizontal Branch Stars
-description: This project is funded by 2022 Summer Undergraduate Data Science (SUDS) Opportunities Program, Data Sciences Institute (DSI), and supervised by Prof. Ting Li and Prof. Joshua Speagle.
+description: Supervised by Prof. Ting Li and Prof. Joshua Speagle, funded by 2022 Summer Undergraduate Data Science (SUDS) Opportunities Program, Data Sciences Institute (DSI).
 img: assets/img/milky_way_2.png
 importance: 3
 category: work
