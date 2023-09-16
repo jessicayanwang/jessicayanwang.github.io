@@ -15,12 +15,10 @@
       institution: University of Toronto, Toronto, Canada
       year: 2020-2024
       description:
-        - Computer Science Specialist
-        - Description 2.
-        - title: Description 3.
+        - title: Computer Science Specialist
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - GPA 3.96/4.0 
+            - Dean's List Scholar (2021-2023)
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -28,70 +26,109 @@
     #     - Description 1.
     #     - Description 2.
 
+- title: Research Interests
+  type: list
+  contents:
+    - AI in medicine, AI for healthcare, computational neuroscience, statistical analysis
+
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Sunnybrook Health Sciences Centre, Toronto, Canada
+      year: May 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - Leading the development of a 3D deep learning pipeline dedicated to the precise segmentation of
+      neuronal somas in whole-brain light sheet fluorescence microscopy rodent data
+      - Enhanced existing models by incorporating neuron density, resulting in a balanced approach that
+      aligns more closely with the requirements of neuroscientists and clinicians. Achieved superior results
+      compared to baseline models
+      - Created a novel UNet-based architecture with integration of small image patch dependencies into
+      the convolutional neural network, delivering optimal performance for processing large size microscopy
+      images
+    - title: Undergraduate Researcher
+      institution: Princess Margaret Cancer Centre, University Health Network (UHN), University of Toronto, Canada
+      year: Sept 2022 - Apr 2023
       description:
-        - Description 1.
-        - Description 2.
+      - Successfully re-implemented a previously published few-shot learning method for predicting drug responses
+      - Conducted thorough and comprehensive testing of the developed model across a wide range of datasets, 
+      including immortalized cell line data, in vitro patient-derived cell cultures, and clinical trial data, 
+      expanding the scope beyond the original publication
+      - Bridged the gap from cell-line data to real-world clinical data, showcasing the potential of few-shot
+      learning as a robust and promising tool in the medical field
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Intern
+      institution: Data Sciences Institute (DSI), Toronto, Canada
+      year: May 2022 - Apr 2023
+      desciption:
+      - Developed a statistical model that incorporated both data and associated uncertainties, a crucial 
+      consideration for the analysis of survey data concerning stars at significant distances
+      - This model achieved remarkable success in the classification of blue horizontal branch stars at vast
+      distances, reaching beyond half a million light-years away, utilizing photometric data from Dark Energy Survey
+      - Constructed a 3-D model of the stellar halo in the Milky Way by using the predicted stars. The 
+      predicted stars were also provided as a valuable catalog for the astrostatistics and astronomy communities
+      for future research
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Researcher
+      institution: STEM Fellowship, Toronto, Canada
+      year: Dec 2021 - Dec 2022
       description:
+      - Conducted research in 3D bioprinting, with emphasis on its role in advancing personalized medicine
+      and exploring prevalent techniques like extrusion printing and digital light processing (DLP)
+      - Discussed the multifaceted applications of bioprinted constructs, including their utilization as 
+      personalized implants for regenerative medicine and as high-throughput drug development models for 
+      drug discovery
+      - Placed 1st in both Intraschool and National Indicium Research Conference Competition out of more
+      than 80 participating teams nation-wide
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Undergraduate Researcher
+      institution: Department of Statistical Sciences, University of Toronto, Canada
       year: 1909 - 1911
+      description:
+      - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
+      - Achieved a 50% reduction in the number of labeled images required, resulting in a cost-effective solution for landmarking the images
 
-- title: Open Source Projects
+- title: Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 2023 Stellar Stats Workshop, Toronto, Canada
+      year: May 2023
+      description: Mapping the Milky Way halo with Blue Horizontal Branch stars
+    - title: 2023 Toronto Workshop on Reproducibility
+      year: Feb 2023
+      description: Evaluating the Reproducibility and Reusability of Transfer Drug Response Workflows
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - T-CAIREM AI in Medicine Summer Research Studentship, University of Toronto
+        description: awarded to fund a summer research internship for AI in healthcare
+        - Hurvitz Brain Sciences Summer Student Award, Sunnybrook Research Institute (declined)
+        description: awarded to fund a summer research internship in a hospital-based research program
+        - Ruth Reiffenstein Memorial Scholarship, University of Toronto
+        description: awarded for academic standing
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Summer Undergraduate Data Science (SUDS) Scholarship, Data Sciences Institute
+        description: awarded to fund a summer research studentship with UofT faculty members
+        - First Place in the National Indicium Research Conference 2022, STEM Fellowship
+        description: awarded to the winning team
+        - New college in-course scholarship (2021, 2022)
+        description: awarded for academic standing
+    - year: 2020
+      items: University of Toronto Scholars, University of Toronto
+      description: awarded to UofT’s outstanding students at admission
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.

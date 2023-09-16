@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Few-shot Learning for Drug Response Prediction
-description: Reproducibility and Reusability of Few-shot Learning for Transfer Drug Response Prediction, supervised by Prof. Benjamin Haibe-Kains.
+title: Reproducibility and Reusability of Few-shot Learning for Transfer Drug Response Prediction
+description: Project supervised by Prof. Benjamin Haibe-Kains.
 img: assets/img/drugs.png
 importance: 2
 category: work
