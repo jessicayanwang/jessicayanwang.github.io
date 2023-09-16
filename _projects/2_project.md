@@ -1,20 +1,11 @@
 ---
 layout: page
-title: Computational Neuroscience
-description: Developing a 3D deep learning pipeline for segmenting neuronal somas in whole-brain light sheet fluorescence microscopy rodent data. This project is funded by 2023 T-CAIREM AI in Medicine Summer Research Studentship Program, supervised by Prof. Maged Goubran.
-img: assets/img/raw.gif
-importance: 3
+title: Few-shot Learning for Drug Response Prediction
+description: Reproducibility and Reusability of Few-shot Learning for Transfer Drug Response Prediction, supervised by Prof. Benjamin Haibe-Kains.
+img: assets/img/drugs.png
+importance: 2
 category: work
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TCRP.png" title="Performance" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Evaluation of drug response prediction with paclitaxel as an example. Here TCRP is compared against other conventional ML methods on diverse datasets, from cell lines, patient-derivated xenografts models, to clinical trials. 
-</div>
 
 Cancer is difficult to treat due to its heterogeneity. Tumours are often composed of diverse
 cell subpopulations which yield unique drug responses. As patient samples are often
@@ -26,4 +17,13 @@ Recently, Ma et al. (Nature Cancer 2021) have developed a method called ‘trans
 
 Our reproducibility results, while not reaching the same level of superiority as those of the original authors, were able to confirm the superiority of TCRP in the original clinical context. Our reusability results indicate that, in the majority of novel clinical contexts, TCRP remains the superior method for predicting response for both preclinical and clinical settings. Our results thus support the superiority of TCRP over established statistical and machine learning approaches in preclinical and clinical settings. We also developed new resources to increase the reusability of the TCRP model for future improvements and validation studies.
 
-[Check out our paper here!](https://www.nature.com/articles/s42256-023-00688-4)
+Check out our paper on [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00688-4) or [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.06.547938v1)!
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/TCRP.png" title="Performance" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Evaluation of drug response prediction with paclitaxel as an example. Here TCRP is compared against other conventional ML methods on diverse datasets, from cell lines, patient-derivated xenografts models, to clinical trials. 
+</div>
