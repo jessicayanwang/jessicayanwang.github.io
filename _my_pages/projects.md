@@ -23,7 +23,7 @@ horizontal: true
     <div class="row">
       {%- for project in sorted_projects -%}
         <div class="col-md-12">
-          {% include projects.html %}
+          {% include projects_customized.html %}
         </div>
       {%- endfor %}
     </div>
