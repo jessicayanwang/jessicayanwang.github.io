@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Grace
-middle_name: Fengqing
+first_name: Fengqing
+middle_name: Grace
 last_name: Yu
 email: gracefengqing.yu@mail.utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -16,7 +16,7 @@ footer_text: >
 keywords: academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en, cn # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://github.com/grace-fengqing-yu/grace-fengqing-yu.github.io.git # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
