@@ -16,7 +16,7 @@ footer_text: >
 keywords: academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en, cn # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://github.com/grace-fengqing-yu/grace-fengqing-yu.github.io.git # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
