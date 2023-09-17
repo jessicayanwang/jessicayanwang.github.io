@@ -30,7 +30,7 @@ My research interest broadly lies in developing computational and statistical me
 
 I was also lucky to work on a cool astrostatistics project with [Prof. Ting Li](https://sazabi4.github.io/) and [Prof. Joshua Speagle](https://joshspeagle.com/). Currently, I'm working on computational neuroscience, supervised by [Prof. Maged Goubran](https://aiconslab.github.io/).
 
-Links: [Email](mailto:gracefengqing.yu@mail.utoronto.ca) | [Google Scholar](https://scholar.google.ca/citations?user=BczAniIAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/grace-fengqing-yu-404679219/)
+Links: [Email](mailto:gracefengqing.yu@mail.utoronto.ca) \| [Google Scholar](https://scholar.google.ca/citations?user=BczAniIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/grace-fengqing-yu-404679219/)
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
