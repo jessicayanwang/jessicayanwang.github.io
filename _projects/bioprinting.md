@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D Bioprinting for Next-Generation Personalized Medicine
-description: Supervised by Dr. Zongjie Wang.
+description: Supervised by Dr. Zongjie Wang, supported by STEM fellowship Indicium research program.
 img: assets/img/bioprinting_thumbnail.png
 importance: 4
 category: work

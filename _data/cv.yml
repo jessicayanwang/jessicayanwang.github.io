@@ -34,8 +34,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern 
-      institution: Supervised by Prof. Maged Goubran, Sunnybrook Health Sciences Centre, Toronto, Canada
+    - title: Research Intern @ Sunnybrook Health Sciences Centre, Toronto, Canada
+      institution: Supervised by Prof. Maged Goubran
       year: May 2023 - Present
       description:
       - Leading the development of a 3D deep learning pipeline dedicated to the precise segmentation of
@@ -46,8 +46,8 @@
       - Created a novel UNet-based architecture with integration of small image patch dependencies into
         the convolutional neural network, delivering optimal performance for processing large size microscopy
         images
-    - title: Undergraduate Researcher 
-      institution: Supervised by Prof. Benjamin Haibe-Kains, Princess Margaret Cancer Centre, University Health Network (UHN), University of Toronto, Canada
+    - title: Undergraduate Researcher @ Princess Margaret Cancer Centre
+      institution: Supervised by Prof. Benjamin Haibe-Kains, University Health Network (UHN), University of Toronto, Canada
       year: Sept 2022 - Apr 2023
       description:
       - Successfully re-implemented a previously published few-shot learning method for predicting drug responses
@@ -57,8 +57,8 @@
       - Bridged the gap from cell-line data to real-world clinical data, showcasing the potential of few-shot
         learning as a robust and promising tool in the medical field
 
-    - title: Research Intern
-      institution: Supervised by Prof. Ting Li and Prof. Joshua Speagle, Data Sciences Institute (DSI), Toronto, Canada
+    - title: Research Intern @ Data Sciences Institute (DSI), Toronto, Canada
+      institution: Supervised by Prof. Ting Li and Prof. Joshua Speagle
       year: May 2022 - Apr 2023
       description:
       - Developed a statistical model that incorporated both data and associated uncertainties, a crucial 
@@ -69,8 +69,8 @@
         predicted stars were also provided as a valuable catalog for the astrostatistics and astronomy communities
         for future research
 
-    - title: Undergraduate Researcher
-      institution: Supervised by Dr. Zongjie Wang, STEM Fellowship, Toronto, Canada
+    - title: Undergraduate Researcher @ STEM Fellowship, Toronto, Canada
+      institution: Supervised by Dr. Zongjie Wang
       year: Dec 2021 - Dec 2022
       description:
       - Conducted research in 3D bioprinting, with emphasis on its role in advancing personalized medicine
@@ -81,8 +81,8 @@
       - Placed 1st in both Intraschool and National Indicium Research Conference Competition out of more
         than 80 participating teams nation-wide
 
-    - title: Undergraduate Researcher
-      institution: Supervised by Prof. Pascal Tyrrell, Department of Statistical Sciences, University of Toronto, Canada
+    - title: Undergraduate Researcher in Department of Statistical Sciences, University of Toronto, Canada
+      institution: Supervised by Prof. Pascal Tyrrell
       year: Sept 2021 - Apr 2022
       description:
       - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
