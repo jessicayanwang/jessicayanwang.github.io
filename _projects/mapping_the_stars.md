@@ -23,6 +23,6 @@ The Milky Way halo provides unique constraints on fundamental physics and possib
 
 In this project, I worked on developing a statistical model to accurately classify blue horizontal branch (BHB) stars, which can probe the halo out to large distances (~1 million light years!), using photometric data. Based on the classifications, we can develop a 3-D model of the stellar halo of our galaxy.
 
-Check out this story [here](https://www.utoronto.ca/news/mapping-stars-helping-youth-escape-poverty-student-researchers-break-new-ground)!
+Check out this story [here](https://www.utoronto.ca/news/mapping-stars-helping-youth-escape-poverty-student-researchers-break-new-ground)! Our paper is also coming out soon, stay tuned!
 
 
