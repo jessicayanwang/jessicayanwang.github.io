@@ -7,6 +7,8 @@
     #   value: 14th March 1879
     - name: Languages
       value: English, Chinese (Mandarin)
+    - name: Email
+      url: mailto:jessicayan.wang@mail.utoronto.ca
 
 - title: Research Interests
   type: list
@@ -16,7 +18,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science (BSc)
+    - title: Honors Bachelor of Science (HBSc)
       institution: University of Toronto, Toronto, Canada
       year: 2019-2024
       description:
@@ -31,94 +33,79 @@
     #     - Description 1.
     #     - Description 2.
 
-- title: Experience
+- title: Work and Research Experience
   type: time_table
   contents:
-    - title: Research Intern @ Vector Institute, Toronto, Canada
-      institution: Supervised by Prof. Rahul Krishnan
+    - title: Research Intern - Supervised by Prof. Rahul Krishnan
+      institution: Vector Institute, Toronto, Canada
       year: May 2023 - Present
       description:
-      - Analyzed the clinical database GEMINI, developed a comprehensive end-to-end pipeline to assess the effects of
-        diverse distribution shifts on model performance, and evaluated the clinical utility of several modern approaches
-        for detecting distribution shifts.
-      - Identified statistically significant evidence demonstrating the impact of demographic shifts on model generalizability, emphasizing the crucial role of ethical considerations in model deployment.
-      - Expanded the capabilities of the Detectron (distribution shift detection algorithm) by devising an innovative method
-        to identify the most influential features responsible for harmful covariate shifts using large language models.
-    - title: Undergraduate Researcher @ Princess Margaret Cancer Centre
-      institution: Supervised by Prof. Benjamin Haibe-Kains, University Health Network (UHN), University of Toronto, Canada
-      year: Sept 2022 - Apr 2023
-      description:
-      - Successfully re-implemented a previously published few-shot learning method for predicting drug responses
-      - Conducted thorough and comprehensive testing of the developed model across a wide range of datasets, 
-        including immortalized cell line data, in vitro patient-derived cell cultures, and clinical trial data, 
-        expanding the scope beyond the original publication
-      - Bridged the gap from cell-line data to real-world clinical data, showcasing the potential of few-shot
-        learning as a robust and promising tool in the medical field
+      - Explored machine learning applications in healthcare, focusing on detecting harmful distribution shifts in model deployment using data from over 1.18 million patient admissions in the GEMINI database.
+      - Visualized and tested the effects of institutional, demographic, and temporal shifts on model accuracy for mortality and length of stay prediction tasks, highlighting significant impacts of demographic changes on model performance.
+      - Expanded the capabilities of the Detectron (distribution shift detection algorithm) by devising an innovative method to identify the most influential features responsible for harmful covariate shifts using large language models.
 
-    - title: Research Intern @ Data Sciences Institute (DSI), Toronto, Canada
-      institution: Supervised by Prof. Ting Li and Prof. Joshua Speagle
-      year: May 2022 - Apr 2023
+    - title: Research Intern - Supervised by Prof. Fanny Chevalier
+      institution: University of Toronto Dynamic Graphics Project Lab, Toronto, Canada
+      year: Jan 2022 - Present
       description:
-      - Developed a statistical model that incorporated both data and associated uncertainties, a crucial 
-        consideration for the analysis of survey data concerning stars at significant distances
-      - This model achieved remarkable success in the classification of blue horizontal branch stars at vast
-        distances, reaching beyond half a million light-years away, utilizing photometric data from Dark Energy Survey
-      - Constructed a 3-D model of the stellar halo in the Milky Way by using the predicted stars. The 
-        predicted stars were also provided as a valuable catalog for the astrostatistics and astronomy communities
-        for future research
+      - Designed and developed a pipeline for enhancing real-time presenter responses during Q&A sessions, utilizing audio audience input and presentation context to generate structured responses displayed on the HoloLens.
+      - "Fine-tuned BigBird-based question-answering model and DistilRoBERTa-based sentence transformer on the Huggingface Adversarial QA Dataset, surpassing the baseline model’s Exact Match score by 27%."
+      - Conducted experiments involving volunteer presenters to gather insights for continual system refinement.
 
-    - title: Undergraduate Researcher @ STEM Fellowship, Toronto, Canada
-      institution: Supervised by Dr. Zongjie Wang
-      year: Dec 2021 - Dec 2022
+    - title: Technical Sales Specialist Intern
+      institution: IBM (Data & AI Team), Toronto, Canada
+      year: May 2022 - Dec 2022
       description:
-      - Conducted research in 3D bioprinting, with emphasis on its role in advancing personalized medicine
-        and exploring prevalent techniques like extrusion printing and digital light processing (DLP)
-      - Discussed the multifaceted applications of bioprinted constructs, including their utilization as 
-        personalized implants for regenerative medicine and as high-throughput drug development models for 
-        drug discovery
-      - Placed 1st in both Intraschool and National Indicium Research Conference Competition out of more
-        than 80 participating teams nation-wide
+      - "Performed interactive product demos and provided support for external client Hackathons to showcase IBM’s AI solutions, leveraging a comprehensive understanding of MLOps, trustworthy AI, and cloud integration."
+      - Winner of the Intern Challenge - an internal client presentation competition amongst interns.
 
-    - title: Undergraduate Researcher in Department of Statistical Sciences, University of Toronto, Canada
-      institution: Supervised by Prof. Pascal Tyrrell
-      year: Sept 2021 - Apr 2022
+    - title: Business Intelligence Research Analyst Intern
+      institution: Enverus, Calgary, Canada
+      year: Sep 2021 - Apr 2022
       description:
-      - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
-      - Achieved a 50% reduction in the number of labeled images required, resulting in a cost-effective solution for landmarking the images
+      - Analyzed energy operator portfolios using historical data, predicting future performance using regression models,and time series analysis to optimize strategic decisions.
+      - Employed data visualization techniques to transform raw, large-scale data into actionable insights, creating comprehensive reports that effectively communicated the underlying trends and implications to stakeholders.
+      - Collected and managed a significant volume of unstructured data from over 100 disparate sources, integrating them into a database to provide the basis for a new research project.
 
-- title: Presentations
+    - title: Peer Mentor
+      institution: University of Toronto Department of Mathematics, Toronto, Canada
+      year: Sep 2020 - Sep 2021
+      description:
+      - Led bi-weekly math workshops for 28 first-year students using a flipped classroom approach, prioritizing hands-on problem-solving and active student participation.
+
+- title: Projects
   type: time_table
   contents:
-    - title: 2023 Stellar Stats Workshop, Toronto, Canada
-      year: May 2023
-      description: Mapping the Milky Way halo with Blue Horizontal Branch stars
-    - title: 2023 Toronto Workshop on Reproducibility
-      year: Feb 2023
-      description: Evaluating the Reproducibility and Reusability of Transfer Drug Response Workflows
+    - title: Twitter Sentiment Analysis Under COVID-19 (Python)
+      year: Apr 2023
+      description: 
+      - Employed Naive Bayes to forecast the popularity of political tweets on Twitter, incorporating metrics such as retweets, favorites, and follower counts, which successfully outperformed the baseline by 28%.
+      - Executed comprehensive exploratory data analysis on a dataset of 10,000 political tweets and engineered a novel “Popularity Score” to normalize tweet popularity against follower count.
+    - title: Education Platform Student Answer Prediction (Python)
+      year: Nov 2022 - Dec 2022
+      description: 
+      - Implemented a learning-based Item Response Theory Model using student ability vs. question difficulty to formulate a probability distribution for correct responses.
+      - Experimented with Machine Learning models and techniques including Autoencoder, Matrix Factorization, kNN,Neural Network and Ensemble to perform prediction while evaluating the advantages and disadvantages.
+    - title: ASA DataFest(R) - "Best Insight" Winning Team of 2022
+      year: Nov 2022 - Dec 2022
+      description: 
+      - "Built linear mixed-effect models and correlation graphs to investigate how a player’s gaming experience of the educational game “Elm City Stories” relates to their improved efficacy in resisting drug."
+      - Evaluated the educational effectiveness of each game chapter and identified characteristics of the players who benefited more from the game for future game development.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
-        - T-CAIREM AI in Medicine Summer Research Studentship, University of Toronto
-          # description: awarded to fund a summer research internship for AI in healthcare
-        - Hurvitz Brain Sciences Summer Student Award, Sunnybrook Research Institute (declined)
-          # description: awarded to fund a summer research internship in a hospital-based research program
-        - Ruth Reiffenstein Memorial Scholarship, University of Toronto
-          # description: awarded for academic standing
+        - T. A. Reed Scholarship - Top cGPA in the Innis College, University of Toronto
+        - The Undergraduate Student Research Awards, NSERC
     - year: 2022
       items: 
-        - Summer Undergraduate Data Science (SUDS) Scholarship, Data Sciences Institute
-          # description: awarded to fund a summer research studentship with UofT faculty members
-        - First Place in the National Indicium Research Conference 2022, STEM Fellowship
-          # description: awarded to the winning team
-        - New college in-course scholarship (2021, 2022)
-          # description: awarded for academic standing
-    - year: 2020
+      - First Place in the ASA DataFest, American Statistical Association and University of Toronto
+    - year: 2021
       items: 
-      - University of Toronto Scholars, University of Toronto
-        # description: awarded to UofT's outstanding students at admission
+      - Later Life Learning Scholarship - Top 3% in the Innis College, University of Toronto
+      - University of Toronto In-Course Scholarship, University of Toronto
 
 # - title: Academic Interests
 #   type: nested_list
