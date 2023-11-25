@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Architecture Work...
-description: Some architectural work I completed as a former architecture student!
+description: Some architectural work I completed!
 img: assets/img/SU18_jyw43_Section3_Nice_P5A_1.jpg
 importance: 4
 category: fun
