@@ -2,28 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Fengqing (Grace) Yu
+      value: Jessica Yan Wang
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Chinese
+      value: English, Chinese (Mandarin)
 
 - title: Research Interests
   type: list
   contents:
-    - AI in medicine, computational neuroscience, statistical analysis
+    - AI in healthcare, statistical analysis
 
 - title: Education
   type: time_table
   contents:
-    - title: Honours Bachelor of Science (HBSc)
+    - title: Bachelor of Science (BSc)
       institution: University of Toronto, Toronto, Canada
-      year: 2020-2024
+      year: 2019-2024
       description:
-        - title: Computer Science Specialist
+        - title: Data Science Specialist & Mathematics Minor
           contents:
-            - GPA 3.96/4.0 
-            - Dean's List Scholar (2021-2023)
+            - GPA 4.0/4.0 
+            - Dean's List Scholar (2020-2023)
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
