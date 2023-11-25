@@ -28,7 +28,7 @@ Hi, welcome to my page! I'm a final year undergraduate student at the University
 
 My research interest broadly lies at the intersection of statistics, machine learning and healthcare. I am driven by the belief that great innovation can arise from the intersection of different disciplines. Currently, I am engaged in two exciting projects. With [Prof. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/index.html), I am exploring the detection of harmful distribution shifts within general internal medicine. Additionally, I am collaborating with [Prof. Fanny Chevalier](http://fannychevalier.net/) on the development of a HoloLens-based real-time question answering assistant for presenters. 
 
-Links: [Email](mailto:jessicayan.wang@mail.utoronto.ca) \| [LinkedIn](https://www.linkedin.com/in/jessicawang122/)
+<!-- Links: [Email](mailto:jessicayan.wang@mail.utoronto.ca) \| [LinkedIn](https://www.linkedin.com/in/jessicawang122/) -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
