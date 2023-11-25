@@ -3,7 +3,7 @@ layout: page
 title: Landmarking with reduced sample size in MSK ultrasound imaging
 description: Supervised by Prof. Pascal Tyrrell, undergraduate research project.
 img: assets/img/landmarking_raw.png
-importance: 5
+importance: 4
 category: work
 ---
 
