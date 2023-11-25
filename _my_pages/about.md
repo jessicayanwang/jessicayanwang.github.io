@@ -9,8 +9,8 @@ profile:
   align: right
   image: profolio_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Toronto, Ontario</p>
+  # address: >
+  #   <p>Toronto, Ontario</p>
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -20,15 +20,13 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 selected_projects: false
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-Hi, welcome to my page! I'm a final year student studying data science and mathematics at the University of Toronto.
+Hi, welcome to my page! I'm a final year undergraduate student at the University of Toronto, majoring in Data Science and minoring in Mathematics. 
 
-My research interest broadly lies in developing computational and statistical methods for biomedicine. I also like to explore interdisciplinary challenges as I am intrigued by the adaptability and wide-ranging utility of these methods that span across diverse domains. 
-
-During my undergrad, I've had the privilege of working with [Prof. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/index.html) on detecting harmful distribution shifts and with [Prof. Fanny Chevalier](http://fannychevalier.net/) on designing a real-time Q&A presenter assistant.
+My research interest broadly lies at the intersection of statistics, machine learning and healthcare. I am driven by the belief that great innovation can arise from the intersection of different disciplines. Currently, I am engaged in two exciting projects. With [Prof. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/index.html), I am exploring the detection of harmful distribution shifts within general internal medicine. Additionally, I am collaborating with [Prof. Fanny Chevalier](http://fannychevalier.net/) on the development of a HoloLens-based real-time question answering assistant for presenters. 
 
 Links: [Email](mailto:jessicayan.wang@mail.utoronto.ca) \| [LinkedIn](https://www.linkedin.com/in/jessicawang122/)
 
