@@ -34,18 +34,16 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern @ Sunnybrook Health Sciences Centre, Toronto, Canada
-      institution: Supervised by Prof. Maged Goubran
+    - title: Research Intern @ Vector Institute, Toronto, Canada
+      institution: Supervised by Prof. Rahul Krishnan
       year: May 2023 - Present
       description:
-      - Leading the development of a 3D deep learning pipeline dedicated to the precise segmentation of
-        neuronal somas in whole-brain light sheet fluorescence microscopy rodent data
-      - Enhanced existing models by incorporating neuron density, resulting in a balanced approach that
-        aligns more closely with the requirements of neuroscientists and clinicians. Achieved superior results
-        compared to baseline models
-      - Created a novel UNet-based architecture with integration of small image patch dependencies into
-        the convolutional neural network, delivering optimal performance for processing large size microscopy
-        images
+      - Analyzed the clinical database GEMINI, developed a comprehensive end-to-end pipeline to assess the effects of
+        diverse distribution shifts on model performance, and evaluated the clinical utility of several modern approaches
+        for detecting distribution shifts.
+      - Identified statistically significant evidence demonstrating the impact of demographic shifts on model generalizability, emphasizing the crucial role of ethical considerations in model deployment.
+      - Expanded the capabilities of the Detectron (distribution shift detection algorithm) by devising an innovative method
+        to identify the most influential features responsible for harmful covariate shifts using large language models.
     - title: Undergraduate Researcher @ Princess Margaret Cancer Centre
       institution: Supervised by Prof. Benjamin Haibe-Kains, University Health Network (UHN), University of Toronto, Canada
       year: Sept 2022 - Apr 2023
