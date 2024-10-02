@@ -8,10 +8,10 @@
     - name: Languages
       value: English, Chinese (Mandarin)
     - name: Email
-      value: jessicayan.wang@mail.utoronto.ca
-      url: mailto:jessicayan.wang@mail.utoronto.ca
+      value: jessicawang@g.harvard.edu
+      url: mailto:jessicawang@g.harvard.edu
 
-- title: Research Interests
+- title: Industry/Academic Interests
   type: list
   contents:
     - Data Science, Naltural Language Processing (NLP), AI in Healthcare, Statistical Analysis
@@ -19,20 +19,20 @@
 - title: Education
   type: time_table
   contents:
+    - title: Master's in Data Science
+      institution: Harvard John A. Paulson School of Engineering and Applied Sciences
+      year: 2024-2025 (E)
+      description:
+          contents:
+            - GPA 4.0/4.0 
     - title: Honors Bachelor of Science (HBSc)
       institution: University of Toronto, Toronto, Canada
       year: 2019-2024
       description:
-        - title: Data Science Specialist & Mathematics Minor
+        - title: Data Science Major & Mathematics Minor
           contents:
-            - GPA 4.0/4.0 
+            - GPA 3.99/4.0 
             - Dean's List Scholar (2020-2023)
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
 
 - title: Work and Research Experience
   type: time_table
@@ -41,18 +41,18 @@
       institution: Vector Institute, Toronto, Canada
       year: May 2023 - Present
       description:
-      - Explored machine learning applications in healthcare, focusing on detecting harmful distribution shifts in model deployment using data from over 1.18 million patient admissions in the GEMINI database.
-      - Visualized and tested the effects of institutional, demographic, and temporal shifts on model accuracy for mortality and length of stay prediction tasks, highlighting significant impacts of demographic changes on model performance.
-      - Expanded the capabilities of the Detectron (distribution shift detection algorithm) by devising an innovative method to identify the most influential features responsible for harmful covariate shifts using large language models.
-
+      - Developed binary classification models using XGBoost to predict 14-day in-hospital mortality from the GEMINI dataset with 2.2 billion+ clinical data points, assessing model performance across patient groups defined by Social Determinants of Health.
+      - Analyzed how distribution shifts affected model performance, observing up to a 3.5% AUC improvement when deploying models trained on more socially-diverse subgroups to less socially-diverse subgroups.      
+      - Enhanced model interpretability through SHAP analysis, identifying key features influencing predictions across diverse patient subgroups and demonstrating the need for diverse training data to improve AI model generalizability.
+    
     - title: Research Intern - Supervised by Prof. Fanny Chevalier
       institution: University of Toronto Dynamic Graphics Project Lab, Toronto, Canada
       year: Jan 2022 - Present
       description:
-      - Designed and developed a pipeline for enhancing real-time presenter responses during Q&A sessions, utilizing audio audience input and presentation context to generate structured responses displayed on the HoloLens.
-      - "Fine-tuned BigBird-based question-answering model and DistilRoBERTa-based sentence transformer on the Huggingface Adversarial QA Dataset, surpassing the baseline model’s Exact Match score by 27%."
-      - Conducted experiments involving volunteer presenters to gather insights for continual system refinement.
-
+      - Developed and deployed an augmented reality application on Microsoft HoloLens to assist presenters during Q&A sessions by analyzing audience audio input and presentation context. The system generates real-time answers and relevant content to help presenters respond more effectively on the spot.
+      - Fine-tuned a BigBird-based question-answering model and DistilRoBERTa-based sentence transformer on the Huggingface Adversarial QA Dataset, achieving a 27% improvement in Exact Match score over the baseline model.
+      - Streamlined the pipeline from speech recognition and presentation context processing to answer generation and relevant content extraction. Integrated the outputs using GPT-3.5, and displayed the final response on the HoloLens screen via Unity.
+    
     - title: Technical Sales Specialist Intern
       institution: IBM (Data & AI Team), Toronto, Canada
       year: May 2022 - Dec 2022
@@ -64,15 +64,10 @@
       institution: Enverus, Calgary, Canada
       year: Sep 2021 - Apr 2022
       description:
-      - Analyzed energy operator portfolios using historical data, predicting future performance using regression models,and time series analysis to optimize strategic decisions.
-      - Employed data visualization techniques to transform raw, large-scale data into actionable insights, creating comprehensive reports that effectively communicated the underlying trends and implications to stakeholders.
-      - Collected and managed a significant volume of unstructured data from over 100 disparate sources, integrating them into a database to provide the basis for a new research project.
-
-    - title: Peer Mentor
-      institution: University of Toronto Department of Mathematics, Toronto, Canada
-      year: Sep 2020 - Sep 2021
-      description:
-      - Led bi-weekly math workshops for 28 first-year students using a flipped classroom approach, prioritizing hands-on problem-solving and active student participation.
+      - Analyzed energy operator portfolios using historical data to predict future performance, building regression models and conducting time series analysis in R to optimize strategic decision-making.
+      - Automated the daily model audit process using Python, reducing manual effort by 30% and improving operational efficiency.
+      - Employed Tableau to visualize large-scale data, transforming raw data into actionable insights and creating comprehensive reports that effectively communicated trends and strategic implications to stakeholders.
+    
 
 - title: Projects
   type: time_table
@@ -80,17 +75,17 @@
     - title: Twitter Sentiment Analysis Under COVID-19 (Python)
       year: Apr 2023
       description: 
-      - Employed Naive Bayes to forecast the popularity of political tweets on Twitter, incorporating metrics such as retweets, favorites, and follower counts, which successfully outperformed the baseline by 28%.
-      - Executed comprehensive exploratory data analysis on a dataset of 10,000 political tweets and engineered a novel “Popularity Score” to normalize tweet popularity against follower count.
+      - Built a Naive Bayes classifier to predict the popularity of political tweets, incorporating retweets, favorites, and follower counts, achieving a 48% accuracy improvement over the baseline.
+      - Conducted EDA on 10,000+ tweets, engineering a custom "Popularity Score" to normalize engagement metrics and identify key trends, using Pandas and Matplotlib for data analysis and visualization.
     - title: Education Platform Student Answer Prediction (Python)
       year: Nov 2022 - Dec 2022
       description: 
-      - Implemented a learning-based Item Response Theory Model using student ability vs. question difficulty to formulate a probability distribution for correct responses.
-      - Experimented with Machine Learning models and techniques including Autoencoder, Matrix Factorization, kNN,Neural Network and Ensemble to perform prediction while evaluating the advantages and disadvantages.
+      - Implemented an Item Response Theory Model to predict correct responses, modeling student ability against question difficulty to generate probability distributions.
+      - Optimized predictions by experimenting with Autoencoders, Matrix Factorization, Neural Networks, and Ensembles.
     - title: ASA DataFest(R) - "Best Insight" Winning Team of 2022
       year: Nov 2022 - Dec 2022
       description: 
-      - "Built linear mixed-effect models and correlation graphs to investigate how a player’s gaming experience of the educational game “Elm City Stories” relates to their improved efficacy in resisting drug."
+      - "Built multilevel linear mixed-effect models and correlation graphs to investigate how a player’s gaming experience of the educational game “Elm City Stories” relates to their improved efficacy in resisting drug."
       - Evaluated the educational effectiveness of each game chapter and identified characteristics of the players who benefited more from the game for future game development.
 
 - title: Honors and Awards
