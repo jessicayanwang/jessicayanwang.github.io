@@ -3,7 +3,7 @@ layout: page
 title: Twitter Sentiment Analysis Under COVID-19
 description: Analyzing political sentiment and tweet popularity during the pandemic.
 img: assets/img/Twitter_Analysis.png
-importance: 2
+importance: 4
 category: work
 ---
 
