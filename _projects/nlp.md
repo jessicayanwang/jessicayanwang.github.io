@@ -26,7 +26,7 @@ Our approach combines **orthogonal projection techniques** with contextualized w
 - **Regularization Loss:** Preserves semantic integrity by minimizing the distance between original and debiased embeddings.
 - **Evaluation:** Uses SEAT (Sentence Encoder Association Test) for bias reduction and GLEU benchmarks for downstream performance.
 
-![Method Overview](/assets/images/projects/debiasing-method.png)
+![Method Overview](/assets/img/debiasing-method.png)
 
 ---
 
