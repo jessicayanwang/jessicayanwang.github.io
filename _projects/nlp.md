@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beyond Gender: Addressing Age and Disability Biases with Context-Debias
-description: A project extending Context-Debias to mitigate biases related to age and disability in pre-trained language models.
+title: "Beyond Gender: Addressing Age and Disability Biases with Context-Debias"
+description: "A project extending Context-Debias to mitigate biases related to age and disability in pre-trained language models."
 img: assets/img/debiasing-logo.png
 importance: 1
 category: work
