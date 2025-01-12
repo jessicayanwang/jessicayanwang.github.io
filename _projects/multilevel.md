@@ -60,13 +60,12 @@ Our findings underscore the complex interplay between **climate, hydrology, and 
 ---
 
 ### Results
-
-#### Fixed Effects Summary
-| Term         | Estimate | Std. Error | p-value   |
-|--------------|----------|------------|-----------|
-| (Intercept)  | 0.498    | 0.026      | <0.001    |
-| Mean AI      | -0.149   | 0.005      | <0.001    |
-| Mean SF      | 0.241    | 0.022      | <0.001    |
+Runoff efficiency is significantly influenced by long-term climatic averages and yearly deviations:
+- Higher average aridity index (AI) reduces runoff efficiency (-0.149, p<0.001).
+- Higher average snow fraction (SF) enhances runoff efficiency (+0.241, p<0.001).
+- Higher average seasonality index (SI) reduces runoff efficiency (-0.089, p<0.001).
+- Short-term deviations in AI negatively impact runoff efficiency (-0.119, p=0.002).
+- Short-term deviations in SF positively influence runoff efficiency (+0.210, p=0.019).
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +74,10 @@ Our findings underscore the complex interplay between **climate, hydrology, and 
 </div>
 
 #### Random Effects Summary
-- Variability across watersheds and clusters highlights the influence of **regional characteristics**.
+Variance in runoff efficiency is observed at both the watershed and cluster levels:
+- Watershed level: Random effects show heterogeneity in baseline efficiency (0.022) and sensitivities to climatic deviations (e.g., SF variance: 0.027).
+- Cluster level: Variance in baseline efficiency (0.005) and climatic sensitivities (e.g., SF variance: 0.021) reflects regional influences.
+- Correlations among random effects highlight interactions between climatic variables (e.g., SF and AI show moderate correlations within watersheds).
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -102,5 +104,5 @@ This project is a collaborative effort by **Jessica Wang**, **Qianyi Wang**, and
 
 ---
 
-### References
-- [Project Report](https://github.com/jessicayanwang/Multilevel-Approach-to-Runoff-Efficiency/blob/main/Report.pdf)
+### Full Report
+- Here is the link to our full [project report](https://github.com/jessicayanwang/Multilevel-Approach-to-Runoff-Efficiency/blob/main/Report.pdf)
