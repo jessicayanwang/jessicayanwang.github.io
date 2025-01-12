@@ -3,7 +3,7 @@ layout: page
 title: "Decoding Airbnb: Price Influences in New York City"
 description: "Analyzing factors influencing Airbnb listing prices in NYC."
 img: assets/img/Airbnb_Analysis.png
-importance: 5
+importance: 6
 category: work
 ---
 
