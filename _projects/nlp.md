@@ -53,7 +53,7 @@ By addressing age and disability biases, this project contributes to the develop
 ---
 
 ### References
-For more details, check out our [GitHub repository](https://github.com/Evenlii/auto-debias-reproduction).
+For more details, check out our [GitHub repository](https://github.com/jessicayanwang/Age-and-Disability-Debias-with-Context-Debias).
 
 
 
