@@ -4,7 +4,7 @@ title: "TurkEye: AI-Powered Content Moderation"
 description: "A Chrome extension + backend AI system that detects and blocks deepfakes, explicit AI-generated images, and misinformation in real time."
 img: /assets/img/turkeye.gif
 importance: 2
-category: projects
+category: work
 ---
 
 # Welcome to TurkEye 🦃
