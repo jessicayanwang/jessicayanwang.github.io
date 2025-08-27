@@ -3,7 +3,7 @@ layout: page
 title: Auditing Predictive Models in General Internal Medicine for Diverse and Evolving Populations
 description: Supervised by Prof. Rahul Krishnan, supported by the NSERC Undergraduate Student Research Awards.
 img: assets/img/gemini_logo.png
-importance: 2
+importance: 3
 category: work
 
 ---

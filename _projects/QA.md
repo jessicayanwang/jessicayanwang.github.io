@@ -3,7 +3,7 @@ layout: page
 title: "Real-Time Presenter’s Assistant: Empowering Presenters and Elevating Audience Experience through Adaptive Q&A Support"
 description: Supervised by Prof. Fanny Chevalier, undergraduate research project.
 img: assets/img/QA_assistant.gif
-importance: 3
+importance: 4
 category: work
 
 ---

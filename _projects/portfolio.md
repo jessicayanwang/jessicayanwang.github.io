@@ -3,7 +3,7 @@ layout: page
 title: My Architecture Work...
 description: Some architectural work I completed!
 img: assets/img/SU18_jyw43_Section3_Nice_P5A_1.jpg
-importance: 5
+importance: 1
 category: fun
 ---
 

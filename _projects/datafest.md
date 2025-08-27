@@ -3,7 +3,7 @@ layout: page
 title: An Analysis of the Educational Game Elm-City-Stories
 description: 2022 ASA DataFest Project, Best Insight Winning Team.
 img: assets/img/ECS_logo.png
-importance: 5
+importance: 6
 category: work
 ---
 

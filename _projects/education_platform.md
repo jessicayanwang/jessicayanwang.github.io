@@ -3,7 +3,7 @@ layout: page
 title: "Education Platform Student Answer Prediction"
 description: "Predicting student responses using Item Response Theory and machine learning models."
 img: assets/img/Student_Answer_Prediction.png
-importance: 7
+importance: 8
 category: work
 ---
 
