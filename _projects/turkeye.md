@@ -21,7 +21,11 @@ actually a **turkey**? 🦃 Sharp-eyed and always alert—perfect for an AI watc
 
 ## Architecture
 
-![TurkEye Architecture](/assets/img/turkeye_architecture.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/turkeye_architecture.png" title="timeline" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 *Figure: Chrome Extension (frontend) streams media to a FastAPI decision pipeline (backend) which orchestrates
 deepfake detection models (CNN/ViT), Google Cloud Vision SafeSearch, and fact-checking services. The pipeline
